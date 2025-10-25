@@ -9,4 +9,4 @@ The Ball and Beam system is shown in the figure below. By applying an angle \( \
 - The mass of the beam and arm is neglected for calculating kinetic energy.
 - External forces such as friction and losses are ignored, and only gravitational force is considered.
 - 
-![Ball and Beam Image](https://github.com/PghGolafshan/Control-of-the-Ball-and-Beam-System/blob/main/Screenshot%202025-10-25%20140724.png?raw=true)
+![Ball and Beam Image]([https://github.com/PghGolafshan/Control-of-the-Ball-and-Beam-System/blob/main/Screenshot%202025-10-25%20140724.png?raw=true](https://github.com/PghGolafshan/Control-of-the-Ball-and-Beam-System/blob/main/System-Pic.png?raw=true))
