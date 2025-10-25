@@ -6,10 +6,6 @@ The Ball and Beam system is shown in the figure below. By applying an angle \( \
 
 ### Assumptions:
 - The ball rolls without slipping on the beam.
-- The displacement relationship between the right end of the beam and the angle \( \theta \) is approximated as:  
-  \[
-  \alpha = \frac{d}{L} \theta \,\, \text{(1)}
-  \]
 - The mass of the beam and arm is neglected for calculating kinetic energy.
 - External forces such as friction and losses are ignored, and only gravitational force is considered.
 
